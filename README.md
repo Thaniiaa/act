@@ -1,9 +1,13 @@
 # act
 
 pkg install git
+
 git clone https://github.com/Thaniiaa/act/
+
 cd act
+
 php kali.php
+
 reff : 83735b80-93e5-11e9-972f-d7c0140b6a0b
 
 
